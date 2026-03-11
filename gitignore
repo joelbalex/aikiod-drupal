@@ -1,0 +1,18 @@
+# Drupal
+web/core
+web/modules/contrib
+web/themes/contrib
+web/profiles/contrib
+web/libraries
+vendor/
+web/sites/default/settings.php
+web/sites/default/files/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
